@@ -1,0 +1,8 @@
+.Editor .block-picker {
+  padding-top: 15px;
+}
+
+.Editor input[type="range"] {
+  width: 100%;
+  margin: 15px 0 20px;
+}

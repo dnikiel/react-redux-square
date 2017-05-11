@@ -1,0 +1,8 @@
+.Output {
+  padding: 0 10px 10px;
+  overflow: hidden;
+}
+
+.Output .Rectangle {
+  transition: width .5s, height .5s, background-color .5s;
+}
